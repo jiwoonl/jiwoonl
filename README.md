@@ -13,5 +13,5 @@
 - Statistical Signal Processing
 
 ### Contact
-- **Email:** jwlee@linux.com / jiwoonlee@kw.ac.kr
-- **Location:** Seoul, Republic of Korea / Champaign, Illinois, United States
+- **Email:** jwlee@linux.com / jiwoonl@illinois.edu
+- **Location:** Champaign, Illinois, United States
