@@ -14,4 +14,4 @@
 
 ### Contact
 - **Email:** jwlee@linux.com / jiwoonl@illinois.edu
-- **Location:** Champaign, Illinois, United States
+- **Location:** Urbana, Illinois, United States
